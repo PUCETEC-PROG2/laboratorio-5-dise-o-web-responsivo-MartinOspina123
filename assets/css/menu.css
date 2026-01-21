@@ -6,11 +6,11 @@
 
 body{
     font-family: sans-serif;
-    background-color:rgb(175, 205, 233);
+    background-color:rgb(191, 195, 197);
 }
 
 .navbar{
-    background-color: #00a0dd;
+    background-color: #007add;
     box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.5);
     position: sticky;
     top: 0;
