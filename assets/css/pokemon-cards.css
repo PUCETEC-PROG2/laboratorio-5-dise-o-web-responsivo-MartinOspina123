@@ -26,7 +26,7 @@
     width: 100%;
     height: 250px;
     object-fit: contain;
-    background: linear-gradient(135deg, #67c0e9, #6b2bff);
+    background: linear-gradient(135deg, #66cfff, #6b2bff);
 }
 
 .pokemon-info {

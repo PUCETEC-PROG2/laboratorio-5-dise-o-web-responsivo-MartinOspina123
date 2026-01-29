@@ -6,7 +6,7 @@
 
 body{
     font-family: sans-serif;
-    background-color:rgb(191, 195, 197);
+    background: linear-gradient(400deg, #007add, #fff);
 }
 
 .navbar{
